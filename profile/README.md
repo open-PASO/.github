@@ -25,6 +25,11 @@ never saw, and coupling across codes.
 - **Couple**: partitioned coupling between different codes, judged on convergence, not on completion.
 - **Develop**: the same tools reach into the solvers' sources when a capability is missing.
 
+```bash
+pip install openpaso              # the server, with scikit-fem as a first solver
+openpaso                          # the MCP server your AI app connects to
+```
+
 Developed at the Institute of Materials Mechanics, Helmholtz-Zentrum Hereon, and open to
 contributions: knowledge you verified, a solver you use, a check that caught something.
 MIT licence.
