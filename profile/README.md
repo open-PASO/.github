@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/open-PASO/openPASO">
-    <img src="https://raw.githubusercontent.com/open-PASO/openPASO/main/logo/openPASO_koralle_dunkel.gif" alt="openPASO" width="220">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/open-PASO/.github/main/profile/openPASO_koralle_transparent.gif">
+      <img src="https://raw.githubusercontent.com/open-PASO/.github/main/profile/openPASO_koralle_weiss.gif" alt="openPASO" width="220">
+    </picture>
   </a>
 </p>
 
